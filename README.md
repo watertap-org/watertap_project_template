@@ -1,5 +1,5 @@
-# watertap_project_template
-A template for creating WaterTAP Projects
+# WaterTAP Project Template
+A logical, reasonably standardized but flexible project structure for doing and sharing WaterTAP projects.
 
 ## Starting a new project
 
